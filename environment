@@ -1,0 +1,5 @@
+DOCKER_USER=ukhomeoffice
+DOCKER_OPENJRE=${DOCKER_USER}/openjdk8:latest
+HBASE_VERSION=1.1.4
+HBASE_DOWNLOAD_URL=http://www.mirrorservice.org/sites/ftp.apache.org/hbase/${HBASE_VERSION}/hbase-${HBASE_VERSION}-bin.tar.gz
+
